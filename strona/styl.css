@@ -1,0 +1,108 @@
+#przywitanie{
+	float:right;
+	padding-right: 10px;
+}
+#drugi{
+	float: right;
+	font-size: 22px;
+	padding-right: 10px;
+	padding-top: 16px
+}
+#first{
+	float:left;
+	border-style: groove;
+	border-width: 5px;
+	border-color: black;
+	height: 100%;
+	background-color: gray;
+	width: 350px;
+	
+}
+#middle{
+	border-style: groove;
+	border-width: 5px;
+	border-color: black;
+	margin-left: auto;
+	margin-right: auto;
+	height: 100%;
+	background-color: gray;
+}
+h4{
+	text-align: center;
+}
+h1{
+	text-align: center;
+}
+h2{
+	text-align: center;
+}
+#second{
+	float: right;
+	border-style: groove;
+	border-width: 5px;
+	border-color: black;
+	height: 100%;
+	background-color: gray;
+	width: 350px;
+	
+}
+header{
+	background-color: black;
+	text-align: right;
+	height: 60px;
+}
+
+img{
+	vertical-align: left
+	height: 100px;
+	float:left;
+	padding-top: 10px;
+}
+
+body {
+	background-image: url(bgimage.jpg);
+	background-color: black;
+	color: white;
+	min-height: 100%
+}
+aside{
+	text-align: right;
+}
+
+a:link{
+	color: red;
+
+}
+a:visited{
+	color: yellow;
+}
+a:hover{
+	color: hotpink;
+}
+footer{
+	text-align: center;
+	background-color: black;
+	clear: both;
+	position: relative;
+	height: 50px;
+	padding-top: 30px;
+}
+ul{
+	text-align: left;
+}
+span{
+	color: yellow;
+}
+#stronka{
+	margin-left: 40%;
+
+}
+table{
+	padding-top: 20px;
+	padding-left: 3cm;
+	
+}
+.mystyle{
+    color : yellow;
+    font-style: italic;
+}
